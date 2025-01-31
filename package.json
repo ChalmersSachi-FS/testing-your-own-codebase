@@ -1,0 +1,15 @@
+{
+  "name": "testing-your-own-codebase",
+  "version": "1.0.0",
+  "description": "WEEK 4 Assignment <!-- Assignment for testing JavaScript functions -->",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
